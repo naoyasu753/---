@@ -1,0 +1,6 @@
+.content ul>li:before {
+    font-family: icomoon;
+    content: "\ea1e";
+	  color: #e13a37;
+    transform: scale(.9);
+}
